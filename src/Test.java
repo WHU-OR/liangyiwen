@@ -67,6 +67,8 @@ public class Test {     //类功能：建立模型并求解
                             i=j; //更新检索起点
                             break;
                         }
+                        if(j==1+2*data.stop_num)
+                            terminate = false;
                     }
                     if (i== 1+2*data.stop_num)//检索完毕 就终止
                         terminate = false;
