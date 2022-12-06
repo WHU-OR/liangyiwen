@@ -1,7 +1,7 @@
 test1
 
 cus_num  stop_num  vec_num      T        Q       F          L
-    1                1               1           300       6        0      100000
+    1        1        1       300        6        0      100000
 CUSTOMERS
  NO.      X.      Y.       SERVETIME
 0       40       70           100
