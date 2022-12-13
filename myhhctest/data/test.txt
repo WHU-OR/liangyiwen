@@ -1,0 +1,24 @@
+test
+ 
+cus_num  stop_num  vec_num   T   Q   F   L
+9  6  7  30  6  200  300
+CUSTOMERS
+ NO.   X.   Y.   SERVETIME
+0  42  66  90
+1  42  68  90
+2  30  50  90
+3  0  40  90
+4  33  35  90
+5  32  30  90
+6  35  5  90
+7  38  15  90
+8  40  15  90
+STOPS (0 is the center)
+ NO.  X.   Y.  
+0  40  50
+1  42  65
+2  18  75
+3  30  52
+4  5  45
+5  28  35
+6  42  15
